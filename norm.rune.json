@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "echo 1"
+  },
+  "name": "norm",
+  "version": "0",
+  "author": "zevladnit",
+  "deps": {
+    "terminal": "^0.0.0.0"
+  }
+}

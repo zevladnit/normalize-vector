@@ -1,0 +1,9 @@
+[
+  {
+    "id": "terminal",
+    "registry": "github+https://github.com/ancientproject",
+    "version": "0.0.0.0",
+    "platform": "any",
+    "IS_AUTO_GENERATED": "DON'T TOUCH THIS FILE"
+  }
+]
